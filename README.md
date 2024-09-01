@@ -2,7 +2,8 @@
 
 ![Manual tests](app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp)
 
-Disclaimer:
+# Disclaimer:
+
 > play and/or use at your own risk. Only you are responsable for VR damage, brain damage or any burned stuff or whatever
 > it can fuckup!
 
